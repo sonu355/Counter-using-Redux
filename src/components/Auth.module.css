@@ -27,3 +27,17 @@
     padding: 0.25rem;
     border: 1px solid #ccc;
   }
+.auth button{
+  background-color: #3c0080;
+  color: #f4f0fa;
+  border: 2px solid grey;
+  height: 1.8rem;
+  border-radius: 5px
+}
+.auth button:hover{
+  background-color: #f4f0fa;
+  color: #3c8358;
+  border: 2px solid grey;
+  height: 1.8rem;
+  border-radius: 5px
+}
